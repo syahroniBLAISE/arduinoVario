@@ -1,0 +1,7 @@
+GLCD KEYWORD1
+Display_Image KEYWORD2
+Display_Text KEYWORD2
+Display_Line KEYWORD2
+Display_Circle KEYWORD2
+Display_Rectangle KEYWORD2
+Display_Point KEYWORD2
